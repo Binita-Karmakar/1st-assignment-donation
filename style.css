@@ -111,3 +111,42 @@ body {
 #education {
     background-color: #f5f3c4;
 }
+
+#registration {
+    background-image: linear-gradient(rgba(18, 18, 40, 0.5), rgba(152, 152, 98, 0.5)),
+        url("images/donation11.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 450px;
+}
+
+#joining {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 120px 120px;
+
+}
+
+#joining-heading {
+    color: white;
+}
+
+.joining-display {
+    width: 50%;
+    text-align: left;
+}
+
+#join-us {
+    padding-left: 120px;
+    font-size: 32px;
+    color: #aed3e9;
+}
+
+#joining-para {
+    margin-bottom: 35px;
+}
+
+.font-color-joining {
+    color: #464d59;
+}
