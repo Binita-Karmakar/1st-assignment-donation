@@ -150,3 +150,29 @@ body {
 .font-color-joining {
     color: #464d59;
 }
+
+#update-input-div {
+    width: 809px;
+    height: 200px;
+    background-color: #FFF4D6;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#subscribe-email {
+    padding: 10px 24px;
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+    background-color: #d9d9d9;
+}
+
+#subscribe-btn {
+    background-color: #FF5959;
+    padding: 10px 24px;
+    border: none;
+    margin-left: -4px;
+    border-radius: 0px 5px 5px 0px;
+    color: white;
+}
