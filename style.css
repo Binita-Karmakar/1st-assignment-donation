@@ -176,3 +176,18 @@ body {
     border-radius: 0px 5px 5px 0px;
     color: white;
 }
+
+#footer-style {
+    background-color: black;
+    text-align: center;
+    padding: 20px 0px 40px 0px;
+}
+
+#footer-head {
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+}
+
+#footer-para {
+    color: white;
+}
